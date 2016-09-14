@@ -7,7 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DEC486271D81AD570041CBDC /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEC486261D81AD570041CBDC /* main.cpp */; };
+		DE3788C41D8244FC00CD3F8D /* 12563 - Jin Ge Jin Qu hao.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE3788C31D8244FC00CD3F8D /* 12563 - Jin Ge Jin Qu hao.cpp */; };
+		DE3788C61D825DAF00CD3F8D /* 116 - Unidirectional TSP.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE3788C51D825DAF00CD3F8D /* 116 - Unidirectional TSP.cpp */; };
+		DEC486271D81AD570041CBDC /* 0-1package.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEC486261D81AD570041CBDC /* 0-1package.cpp */; };
+		DEFA4BE21D8791530079C338 /* DAG_rectangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEFA4BE11D8791530079C338 /* DAG_rectangle.cpp */; };
+		DEFA4BE41D87A91A0079C338 /* DAG_coins.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEFA4BE31D87A91A0079C338 /* DAG_coins.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +27,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DE3788C31D8244FC00CD3F8D /* 12563 - Jin Ge Jin Qu hao.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "12563 - Jin Ge Jin Qu hao.cpp"; sourceTree = "<group>"; };
+		DE3788C51D825DAF00CD3F8D /* 116 - Unidirectional TSP.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "116 - Unidirectional TSP.cpp"; sourceTree = "<group>"; };
 		DEC486231D81AD570041CBDC /* DynamicalProgramming */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DynamicalProgramming; sourceTree = BUILT_PRODUCTS_DIR; };
-		DEC486261D81AD570041CBDC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		DEC486261D81AD570041CBDC /* 0-1package.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "0-1package.cpp"; sourceTree = "<group>"; };
+		DEC4862D1D81B6130041CBDC /* in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = in; sourceTree = "<group>"; };
+		DEC4862E1D81B61D0041CBDC /* out */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = out; sourceTree = "<group>"; };
+		DEFA4BE11D8791530079C338 /* DAG_rectangle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DAG_rectangle.cpp; sourceTree = "<group>"; };
+		DEFA4BE31D87A91A0079C338 /* DAG_coins.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DAG_coins.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +67,13 @@
 		DEC486251D81AD570041CBDC /* DynamicalProgramming */ = {
 			isa = PBXGroup;
 			children = (
-				DEC486261D81AD570041CBDC /* main.cpp */,
+				DEC486261D81AD570041CBDC /* 0-1package.cpp */,
+				DEC4862D1D81B6130041CBDC /* in */,
+				DEC4862E1D81B61D0041CBDC /* out */,
+				DE3788C31D8244FC00CD3F8D /* 12563 - Jin Ge Jin Qu hao.cpp */,
+				DE3788C51D825DAF00CD3F8D /* 116 - Unidirectional TSP.cpp */,
+				DEFA4BE11D8791530079C338 /* DAG_rectangle.cpp */,
+				DEFA4BE31D87A91A0079C338 /* DAG_coins.cpp */,
 			);
 			path = DynamicalProgramming;
 			sourceTree = "<group>";
@@ -118,7 +134,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DEC486271D81AD570041CBDC /* main.cpp in Sources */,
+				DE3788C61D825DAF00CD3F8D /* 116 - Unidirectional TSP.cpp in Sources */,
+				DE3788C41D8244FC00CD3F8D /* 12563 - Jin Ge Jin Qu hao.cpp in Sources */,
+				DEFA4BE41D87A91A0079C338 /* DAG_coins.cpp in Sources */,
+				DEFA4BE21D8791530079C338 /* DAG_rectangle.cpp in Sources */,
+				DEC486271D81AD570041CBDC /* 0-1package.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -237,6 +257,7 @@
 				DEC4862C1D81AD570041CBDC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
