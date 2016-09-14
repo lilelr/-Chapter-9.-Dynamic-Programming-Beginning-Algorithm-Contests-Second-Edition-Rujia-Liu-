@@ -1,3 +1,6 @@
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=847&problem=3466&mosmsg=Submission+received+with+ID+18000301
+// 有固定起点和终点的动态规划，递推法一步一步转移状态
+
 //#include <algorithm>
 //#include <cmath>
 //#include <cstdio>
@@ -9,30 +12,31 @@
 //#include <set>
 //#include <string>
 //#include <vector>
-//using namespace std;
+// using namespace std;
 //#define LL long long
-//const int maxn = 55;
-//const int maxt = 205;
-//const int INF = 1000000000;
+// const int maxn = 55;
+// const int maxt = 205;
+// const int INF = 1000000000;
 //
-//int mtime[maxn];  // n-1 个数，表示从i到i+1车站的所需时间，1<=i<=n-1
-//int has_train[maxt][maxn][2];  // has_train[i][j][k]表示在状态
+// int mtime[maxn];  // n-1 个数，表示从i到i+1车站的所需时间，1<=i<=n-1
+// int has_train[maxt][maxn][2];  // has_train[i][j][k]表示在状态
 //// 第i时刻在j车站是否有往左出发的车辆(k=1)；k=0则是往右出发的车
 //
 //// 时间是单向流逝的，是一个天然的“序”。影响到决策只有当前时间和当前所处车站。
 ////状态定义，表示i时刻在车站j所需等待的最少时间,i,j都是按序变化的
-//int dp[maxt][maxn];
+// int dp[maxt][maxn];
 //// 在状态dp[i][j] 有三种决策：
 //// 决策1： 等1个单位时间
 //// 决策2： 搭乘往右开的车（如果有）
 //// 决策3： 搭乘往左开的车（如果有）
 //
-//int main() {
+// int main() {
 //  //  freopen(
-//  //      "/Users/yuxiao/XcodeProject/DynamicalProgramming/DynamicalProgramming/in",
+//  //
+//  "/Users/yuxiao/XcodeProject/DynamicalProgramming/DynamicalProgramming/in",
 //  //      "r", stdin);
 //  //  freopen(
-//  //      "/Users/yuxiao/XcodeProject/DynamicalProgramming/DynamicalProgramming/"
+//  // "/Users/yuxiao/XcodeProject/DynamicalProgramming/DynamicalProgramming/"
 //  //      "out",
 //  //      "w", stdout);
 //

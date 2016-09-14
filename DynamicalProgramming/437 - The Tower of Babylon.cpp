@@ -1,3 +1,6 @@
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=847&problem=378&mosmsg=Submission+received+with+ID+18000523
+
+// DAG 上的动态规划，无固定起点和终点
 #include <algorithm>
 #include <cmath>
 #include <cstdio>
@@ -53,14 +56,14 @@ int dp(int i, int j) {
 }
 
 int main() {
-//  freopen(
-//      "/Users/yuxiao/XcodeProject/DynamicalProgramming/DynamicalProgramming/in",
-//      "r", stdin);
-//  freopen(
-//      "/Users/yuxiao/XcodeProject/DynamicalProgramming/DynamicalProgramming/"
-//      "out",
-//      "w", stdout);
-//
+  //  freopen(
+  //      "/Users/yuxiao/XcodeProject/DynamicalProgramming/DynamicalProgramming/in",
+  //      "r", stdin);
+  //  freopen(
+  //      "/Users/yuxiao/XcodeProject/DynamicalProgramming/DynamicalProgramming/"
+  //      "out",
+  //      "w", stdout);
+  //
   int kcase = 1;
   while (scanf("%d", &n) == 1 && n) {
     for (int i = 0; i < n; i++) {
