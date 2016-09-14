@@ -1,5 +1,6 @@
 // https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=847&problem=3466&mosmsg=Submission+received+with+ID+18000301
 // 有固定起点和终点的动态规划，递推法一步一步转移状态
+// 状态共有（nT）个，每个状态最多只有3个决策，因此总时间复杂度为O(nT)
 
 //#include <algorithm>
 //#include <cmath>
