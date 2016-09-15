@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DE266DB31D8A695A005B5C7C /* 1347 -tour.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE266DB21D8A695A005B5C7C /* 1347 -tour.cpp */; };
+		DE266DB51D8A7B0A005B5C7C /* LIS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE266DB41D8A7B0A005B5C7C /* LIS.cpp */; };
 		DE3788C41D8244FC00CD3F8D /* 12563 - Jin Ge Jin Qu hao.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE3788C31D8244FC00CD3F8D /* 12563 - Jin Ge Jin Qu hao.cpp */; };
 		DE3788C61D825DAF00CD3F8D /* 116 - Unidirectional TSP.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE3788C51D825DAF00CD3F8D /* 116 - Unidirectional TSP.cpp */; };
 		DEC486271D81AD570041CBDC /* 0-1package.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEC486261D81AD570041CBDC /* 0-1package.cpp */; };
@@ -31,6 +32,7 @@
 
 /* Begin PBXFileReference section */
 		DE266DB21D8A695A005B5C7C /* 1347 -tour.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "1347 -tour.cpp"; sourceTree = "<group>"; };
+		DE266DB41D8A7B0A005B5C7C /* LIS.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LIS.cpp; sourceTree = "<group>"; };
 		DE3788C31D8244FC00CD3F8D /* 12563 - Jin Ge Jin Qu hao.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "12563 - Jin Ge Jin Qu hao.cpp"; sourceTree = "<group>"; };
 		DE3788C51D825DAF00CD3F8D /* 116 - Unidirectional TSP.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "116 - Unidirectional TSP.cpp"; sourceTree = "<group>"; };
 		DEC486231D81AD570041CBDC /* DynamicalProgramming */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DynamicalProgramming; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -83,6 +85,7 @@
 				DEEE3EAC1D897C8600718AED /* 1025 - A Spy in the Metro.cpp */,
 				DEEE3EAE1D898C7D00718AED /* 437 - The Tower of Babylon.cpp */,
 				DE266DB21D8A695A005B5C7C /* 1347 -tour.cpp */,
+				DE266DB41D8A7B0A005B5C7C /* LIS.cpp */,
 			);
 			path = DynamicalProgramming;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 				DE3788C61D825DAF00CD3F8D /* 116 - Unidirectional TSP.cpp in Sources */,
 				DE3788C41D8244FC00CD3F8D /* 12563 - Jin Ge Jin Qu hao.cpp in Sources */,
 				DEFA4BE41D87A91A0079C338 /* DAG_coins.cpp in Sources */,
+				DE266DB51D8A7B0A005B5C7C /* LIS.cpp in Sources */,
 				DEEE3EAD1D897C8600718AED /* 1025 - A Spy in the Metro.cpp in Sources */,
 				DEFA4BE21D8791530079C338 /* DAG_rectangle.cpp in Sources */,
 				DE266DB31D8A695A005B5C7C /* 1347 -tour.cpp in Sources */,
