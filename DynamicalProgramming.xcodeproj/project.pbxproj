@@ -10,6 +10,7 @@
 		DE266DB31D8A695A005B5C7C /* 1347 -tour.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE266DB21D8A695A005B5C7C /* 1347 -tour.cpp */; };
 		DE266DB51D8A7B0A005B5C7C /* LIS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE266DB41D8A7B0A005B5C7C /* LIS.cpp */; };
 		DE266DB71D8A7F0E005B5C7C /* LCS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE266DB61D8A7F0E005B5C7C /* LCS.cpp */; };
+		DE266DB91D8A8551005B5C7C /* 11400 Lighting System Design.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE266DB81D8A8551005B5C7C /* 11400 Lighting System Design.cpp */; };
 		DE3788C41D8244FC00CD3F8D /* 12563 - Jin Ge Jin Qu hao.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE3788C31D8244FC00CD3F8D /* 12563 - Jin Ge Jin Qu hao.cpp */; };
 		DE3788C61D825DAF00CD3F8D /* 116 - Unidirectional TSP.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE3788C51D825DAF00CD3F8D /* 116 - Unidirectional TSP.cpp */; };
 		DEC486271D81AD570041CBDC /* 0-1package.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEC486261D81AD570041CBDC /* 0-1package.cpp */; };
@@ -35,6 +36,7 @@
 		DE266DB21D8A695A005B5C7C /* 1347 -tour.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "1347 -tour.cpp"; sourceTree = "<group>"; };
 		DE266DB41D8A7B0A005B5C7C /* LIS.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LIS.cpp; sourceTree = "<group>"; };
 		DE266DB61D8A7F0E005B5C7C /* LCS.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LCS.cpp; sourceTree = "<group>"; };
+		DE266DB81D8A8551005B5C7C /* 11400 Lighting System Design.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "11400 Lighting System Design.cpp"; sourceTree = "<group>"; };
 		DE3788C31D8244FC00CD3F8D /* 12563 - Jin Ge Jin Qu hao.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "12563 - Jin Ge Jin Qu hao.cpp"; sourceTree = "<group>"; };
 		DE3788C51D825DAF00CD3F8D /* 116 - Unidirectional TSP.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "116 - Unidirectional TSP.cpp"; sourceTree = "<group>"; };
 		DEC486231D81AD570041CBDC /* DynamicalProgramming */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DynamicalProgramming; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -89,6 +91,7 @@
 				DE266DB21D8A695A005B5C7C /* 1347 -tour.cpp */,
 				DE266DB41D8A7B0A005B5C7C /* LIS.cpp */,
 				DE266DB61D8A7F0E005B5C7C /* LCS.cpp */,
+				DE266DB81D8A8551005B5C7C /* 11400 Lighting System Design.cpp */,
 			);
 			path = DynamicalProgramming;
 			sourceTree = "<group>";
@@ -159,6 +162,7 @@
 				DE266DB31D8A695A005B5C7C /* 1347 -tour.cpp in Sources */,
 				DEEE3EAF1D898C7D00718AED /* 437 - The Tower of Babylon.cpp in Sources */,
 				DEC486271D81AD570041CBDC /* 0-1package.cpp in Sources */,
+				DE266DB91D8A8551005B5C7C /* 11400 Lighting System Design.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
