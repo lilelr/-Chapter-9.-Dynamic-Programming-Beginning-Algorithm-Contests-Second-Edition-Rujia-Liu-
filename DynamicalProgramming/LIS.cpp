@@ -21,6 +21,7 @@ using namespace std;
 #define LL long long
 const int maxn = 100;
 int nums[maxn];
+// d[i] = max{d[j]+1, d[i] | j<i,nums[j]<nums[i]}
 int d[maxn];
 
 int main() {
