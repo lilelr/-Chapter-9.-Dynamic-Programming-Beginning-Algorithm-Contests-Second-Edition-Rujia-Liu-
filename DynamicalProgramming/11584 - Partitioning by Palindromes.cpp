@@ -1,3 +1,6 @@
+// 线性结构上的动态规划  回文子串
+// O(n^2)
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2395
 #include <algorithm>
 #include <cmath>
 #include <cstdio>
