@@ -1,3 +1,5 @@
+//有向图（邻接矩阵）上的 动态规划和深度优先搜索， 打印字典序最小的路径
+
 //#include <algorithm>
 //#include <cmath>
 //#include <cstdio>

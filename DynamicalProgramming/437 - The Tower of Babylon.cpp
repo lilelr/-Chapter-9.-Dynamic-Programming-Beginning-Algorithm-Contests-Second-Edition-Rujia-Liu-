@@ -1,8 +1,10 @@
 ////
-///https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=847&problem=378&mosmsg=Submission+received+with+ID+18000523
+/// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=847&problem=378&mosmsg=Submission+received+with+ID+18000523
 //
 //// DAG 上的动态规划，无固定起点和终点 状态总数是O(n)
 //// 的，每个状态转移的决策有O(n)个，因此时间复杂度为O(n^2)
+// sort(blocks[i], blocks[i] + 3);
+
 //#include <algorithm>
 //#include <cmath>
 //#include <cstdio>

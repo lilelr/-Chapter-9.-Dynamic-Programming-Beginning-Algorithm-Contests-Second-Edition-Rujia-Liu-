@@ -1,5 +1,6 @@
-////多阶段决策问题，多段图的最短路
-//// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=847&problem=52&mosmsg=Submission+received+with+ID+17994108
+////多阶段决策问题，多段图的最短路  经典
+////
+/// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=847&problem=52&mosmsg=Submission+received+with+ID+17994108
 ////#include <algorithm>
 //#include <cmath>
 //#include <cstdio>
@@ -10,23 +11,24 @@
 //#include <queue>
 //#include <set>
 //#include <string>
-//using namespace std;
+// using namespace std;
 //#define LL long long
 //
-//const int maxn = 105;
-//const LL INF = 100000000000000;
-//int grid[maxn][maxn];
-//int m, n;
-//LL ans;
-//LL dp[maxn][maxn];
-//int path[maxn][maxn];
+// const int maxn = 105;
+// const LL INF = 100000000000000;
+// int grid[maxn][maxn];
+// int m, n;
+// LL ans;
+// LL dp[maxn][maxn]; //dp[i][j] 表示从 第i行j列出发到最后一列的最小代价
+// int path[maxn][maxn]; //记录行序号
 //
-//int main() {
+// int main() {
 //  //  freopen(
-//  //      "/Users/yuxiao/XcodeProject/DynamicalProgramming/DynamicalProgramming/in",
+//  //
+//  "/Users/yuxiao/XcodeProject/DynamicalProgramming/DynamicalProgramming/in",
 //  //      "r", stdin);
 //  //  freopen(
-//  //      "/Users/yuxiao/XcodeProject/DynamicalProgramming/DynamicalProgramming/"
+//  // "/Users/yuxiao/XcodeProject/DynamicalProgramming/DynamicalProgramming/"
 //  //      "out",
 //  //      "w", stdout);
 //  //
