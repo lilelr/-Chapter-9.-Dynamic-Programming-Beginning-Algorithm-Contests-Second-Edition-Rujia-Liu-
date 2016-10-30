@@ -12,6 +12,7 @@
 		DE266DB71D8A7F0E005B5C7C /* LCS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE266DB61D8A7F0E005B5C7C /* LCS.cpp */; };
 		DE266DB91D8A8551005B5C7C /* 11400 Lighting System Design.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE266DB81D8A8551005B5C7C /* 11400 Lighting System Design.cpp */; };
 		DE266DBB1D8ADE03005B5C7C /* 11584 - Partitioning by Palindromes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE266DBA1D8ADE03005B5C7C /* 11584 - Partitioning by Palindromes.cpp */; };
+		DE31C1F21DC5C05E00894CEB /* 10285 - Longest Run on a Snowboard.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE31C1F11DC5C05E00894CEB /* 10285 - Longest Run on a Snowboard.cpp */; };
 		DE3788C41D8244FC00CD3F8D /* 12563 - Jin Ge Jin Qu hao.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE3788C31D8244FC00CD3F8D /* 12563 - Jin Ge Jin Qu hao.cpp */; };
 		DE3788C61D825DAF00CD3F8D /* 116 - Unidirectional TSP.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE3788C51D825DAF00CD3F8D /* 116 - Unidirectional TSP.cpp */; };
 		DEC486271D81AD570041CBDC /* 0-1package.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEC486261D81AD570041CBDC /* 0-1package.cpp */; };
@@ -39,6 +40,7 @@
 		DE266DB61D8A7F0E005B5C7C /* LCS.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LCS.cpp; sourceTree = "<group>"; };
 		DE266DB81D8A8551005B5C7C /* 11400 Lighting System Design.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "11400 Lighting System Design.cpp"; sourceTree = "<group>"; };
 		DE266DBA1D8ADE03005B5C7C /* 11584 - Partitioning by Palindromes.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "11584 - Partitioning by Palindromes.cpp"; sourceTree = "<group>"; };
+		DE31C1F11DC5C05E00894CEB /* 10285 - Longest Run on a Snowboard.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "10285 - Longest Run on a Snowboard.cpp"; sourceTree = "<group>"; };
 		DE3788C31D8244FC00CD3F8D /* 12563 - Jin Ge Jin Qu hao.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "12563 - Jin Ge Jin Qu hao.cpp"; sourceTree = "<group>"; };
 		DE3788C51D825DAF00CD3F8D /* 116 - Unidirectional TSP.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "116 - Unidirectional TSP.cpp"; sourceTree = "<group>"; };
 		DEC486231D81AD570041CBDC /* DynamicalProgramming */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DynamicalProgramming; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -95,6 +97,7 @@
 				DE266DB61D8A7F0E005B5C7C /* LCS.cpp */,
 				DE266DB81D8A8551005B5C7C /* 11400 Lighting System Design.cpp */,
 				DE266DBA1D8ADE03005B5C7C /* 11584 - Partitioning by Palindromes.cpp */,
+				DE31C1F11DC5C05E00894CEB /* 10285 - Longest Run on a Snowboard.cpp */,
 			);
 			path = DynamicalProgramming;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				DE266DB71D8A7F0E005B5C7C /* LCS.cpp in Sources */,
 				DE266DBB1D8ADE03005B5C7C /* 11584 - Partitioning by Palindromes.cpp in Sources */,
 				DEEE3EAD1D897C8600718AED /* 1025 - A Spy in the Metro.cpp in Sources */,
+				DE31C1F21DC5C05E00894CEB /* 10285 - Longest Run on a Snowboard.cpp in Sources */,
 				DEFA4BE21D8791530079C338 /* DAG_rectangle.cpp in Sources */,
 				DE266DB31D8A695A005B5C7C /* 1347 -tour.cpp in Sources */,
 				DEEE3EAF1D898C7D00718AED /* 437 - The Tower of Babylon.cpp in Sources */,
