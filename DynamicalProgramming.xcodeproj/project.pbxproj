@@ -19,10 +19,12 @@
 		DEABF5F61DC6206F00ADDAE1 /* 1629 - Cake slicing.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEABF5F51DC6206F00ADDAE1 /* 1629 - Cake slicing.cpp */; };
 		DEC486271D81AD570041CBDC /* 0-1package.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEC486261D81AD570041CBDC /* 0-1package.cpp */; };
 		DEC9BFA61DCDE9C6003450F2 /* Uva 2692 Folding.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEC9BFA51DCDE9C6003450F2 /* Uva 2692 Folding.cpp */; };
+		DEC9BFA81DCE0A3A003450F2 /* Uva 10723 Cyborg Genes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEC9BFA71DCE0A3A003450F2 /* Uva 10723 Cyborg Genes.cpp */; };
 		DEEE3EAD1D897C8600718AED /* 1025 - A Spy in the Metro.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEEE3EAC1D897C8600718AED /* 1025 - A Spy in the Metro.cpp */; };
 		DEEE3EAF1D898C7D00718AED /* 437 - The Tower of Babylon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEEE3EAE1D898C7D00718AED /* 437 - The Tower of Babylon.cpp */; };
 		DEFA4BE21D8791530079C338 /* DAG_rectangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEFA4BE11D8791530079C338 /* DAG_rectangle.cpp */; };
 		DEFA4BE41D87A91A0079C338 /* DAG_coins.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEFA4BE31D87A91A0079C338 /* DAG_coins.cpp */; };
+		DEFAC70C1DD1696200CF48C9 /* Uva 1631 - Locker.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEFAC70B1DD1696200CF48C9 /* Uva 1631 - Locker.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -53,10 +55,12 @@
 		DEC4862D1D81B6130041CBDC /* in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = in; sourceTree = "<group>"; };
 		DEC4862E1D81B61D0041CBDC /* out */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = out; sourceTree = "<group>"; };
 		DEC9BFA51DCDE9C6003450F2 /* Uva 2692 Folding.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva 2692 Folding.cpp"; sourceTree = "<group>"; };
+		DEC9BFA71DCE0A3A003450F2 /* Uva 10723 Cyborg Genes.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva 10723 Cyborg Genes.cpp"; sourceTree = "<group>"; };
 		DEEE3EAC1D897C8600718AED /* 1025 - A Spy in the Metro.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "1025 - A Spy in the Metro.cpp"; sourceTree = "<group>"; };
 		DEEE3EAE1D898C7D00718AED /* 437 - The Tower of Babylon.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "437 - The Tower of Babylon.cpp"; sourceTree = "<group>"; };
 		DEFA4BE11D8791530079C338 /* DAG_rectangle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DAG_rectangle.cpp; sourceTree = "<group>"; };
 		DEFA4BE31D87A91A0079C338 /* DAG_coins.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DAG_coins.cpp; sourceTree = "<group>"; };
+		DEFAC70B1DD1696200CF48C9 /* Uva 1631 - Locker.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva 1631 - Locker.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +111,8 @@
 				DE31C1F31DC5D3B400894CEB /* 10118 - Free Candies.cpp */,
 				DEABF5F51DC6206F00ADDAE1 /* 1629 - Cake slicing.cpp */,
 				DEC9BFA51DCDE9C6003450F2 /* Uva 2692 Folding.cpp */,
+				DEC9BFA71DCE0A3A003450F2 /* Uva 10723 Cyborg Genes.cpp */,
+				DEFAC70B1DD1696200CF48C9 /* Uva 1631 - Locker.cpp */,
 			);
 			path = DynamicalProgramming;
 			sourceTree = "<group>";
@@ -169,6 +175,7 @@
 			files = (
 				DE3788C61D825DAF00CD3F8D /* 116 - Unidirectional TSP.cpp in Sources */,
 				DE3788C41D8244FC00CD3F8D /* 12563 - Jin Ge Jin Qu hao.cpp in Sources */,
+				DEFAC70C1DD1696200CF48C9 /* Uva 1631 - Locker.cpp in Sources */,
 				DEFA4BE41D87A91A0079C338 /* DAG_coins.cpp in Sources */,
 				DE266DB51D8A7B0A005B5C7C /* LIS.cpp in Sources */,
 				DE266DB71D8A7F0E005B5C7C /* LCS.cpp in Sources */,
@@ -179,6 +186,7 @@
 				DE31C1F21DC5C05E00894CEB /* 10285 - Longest Run on a Snowboard.cpp in Sources */,
 				DEFA4BE21D8791530079C338 /* DAG_rectangle.cpp in Sources */,
 				DE266DB31D8A695A005B5C7C /* 1347 -tour.cpp in Sources */,
+				DEC9BFA81DCE0A3A003450F2 /* Uva 10723 Cyborg Genes.cpp in Sources */,
 				DEEE3EAF1D898C7D00718AED /* 437 - The Tower of Babylon.cpp in Sources */,
 				DEC486271D81AD570041CBDC /* 0-1package.cpp in Sources */,
 				DEABF5F61DC6206F00ADDAE1 /* 1629 - Cake slicing.cpp in Sources */,
